@@ -8,7 +8,7 @@ import requests.sessions
 
 
 # Function Definitions
-def hello_world3(request: Request):
+def hello_world(request: Request):
     """Function to handle API requests"""
 
     # Parse the JSON body
